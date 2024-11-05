@@ -1,1 +1,2 @@
-# Free-Dogs-unlimited
+# FreeDogs Auto Clicker
+# Thanks to @whywetap
